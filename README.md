@@ -35,7 +35,7 @@ The work supports **UN Sustainable Development Goal 6: Clean Water & Sanitation*
 ---
 
 ## Results & Evaluation
-R² Score: 0.9604
-MAE: 42.68 MLD
-RMSE: 57.80 MLD
+-R² Score: 0.9604
+-MAE: 42.68 MLD
+-RMSE: 57.80 MLD
 
