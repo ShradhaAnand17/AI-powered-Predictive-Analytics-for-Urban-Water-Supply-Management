@@ -4,8 +4,6 @@
 This project implements a scalable, **AI-powered decision-support system** for urban water demand forecasting and tanker-based supply optimisation. Using **Random Forest models** on simulated + open datasets (population, weather, historical usage), it predicts **zone-wise water demand** and generates **actionable tanker allocation plans**.  
 The work supports **UN Sustainable Development Goal 6: Clean Water & Sanitation** by promoting **data-driven, equitable, and efficient water management**.  
 
----
-
 ## Features  
 - 📊 **Zone-wise demand prediction** using Random Forest Regressor  
 - 🚚 **Tanker allocation optimisation** with Random Forest Classifier & rule-based constraints  
@@ -13,8 +11,6 @@ The work supports **UN Sustainable Development Goal 6: Clean Water & Sanitation*
 - 🧹 **Preprocessing & feature engineering** for realistic demand simulation  
 - 📈 **Visual dashboards** using Matplotlib, Seaborn, Plotly  
 - 🌍 **Student-friendly, replicable methodology**  
-
----
 
 ## Project Workflow  
 1. **Data Collection & Integration** – Climate, population, and water consumption data (real + simulated)  
@@ -24,15 +20,11 @@ The work supports **UN Sustainable Development Goal 6: Clean Water & Sanitation*
    - Supply optimisation: Random Forest Classifier + tanker caps  
 4. **Visualisation & Dashboarding** – Interactive Gradio UI and plots for real-time insights  
 
----
-
 ## Tools & Libraries
 1. Python, Pandas, NumPy
 2. Scikit-learn (Random Forest)
 3. Matplotlib, Seaborn, Plotly
 4. Gradio (interactive UI)
-
----
 
 ## Results & Evaluation
 - R² Score: 0.9604
