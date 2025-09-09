@@ -1,8 +1,8 @@
 # AI-Powered Predictive Analytics for Urban Water Supply Management 💧🤖
 
 ## Overview  
-This project implements a scalable, **AI-powered decision-support system** for urban water demand forecasting and tanker-based supply optimisation. Using **Random Forest models** on simulated + open datasets (population, weather, historical usage), it predicts **zone-wise water demand** and generates **actionable tanker allocation plans**.  
-The work supports **UN Sustainable Development Goal 6: Clean Water & Sanitation** by promoting **data-driven, equitable, and efficient water management**.  
+This project implements a scalable, **AI-powered decision-support system** for urban water demand forecasting and tanker-based supply optimisation. Using **Random Forest models** on simulated + open datasets (population, weather, historical usage), it predicts **zone-wise water demand** and generates **actionable tanker allocation plans**. It primarily uses **synthetic datasets** generated in Python to simulate urban water demand.  
+The project supports **UN Sustainable Development Goal 6: Clean Water & Sanitation** by promoting **data-driven, equitable, and efficient water management**.  
 
 ## Features  
 - 📊 **Zone-wise demand prediction** using Random Forest Regressor  
